@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* manually */
+#navabout{
+  color: black;
+  text-decoration-line:none ;
+  margin-left: 25px;
+}
+#navcontact{
+  color: black;
+  text-decoration-line:none ;
+  margin-left: 25px
+}
+#navyo{
+  color: black;
+  text-decoration-line:none ;
+  margin-left: 25px
+}
+
+#title{
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
